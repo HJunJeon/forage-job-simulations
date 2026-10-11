@@ -1,0 +1,5 @@
+# Forage-provided raw data and templates are not redistributed
+*.json
+*.csv
+*Template*
+Financial_Data_Report.xlsx
